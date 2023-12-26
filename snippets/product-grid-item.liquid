@@ -242,7 +242,7 @@
           {% if product_grid_show_second_image and product.media.size > 1 %}
             {% assign second_image = product.media[1].preview_image.src %}
             {%
-              render 'rimg3',
+              render 'rimg',
               img: second_image,
               size: '512x',
               lazy: true,
@@ -251,7 +251,7 @@
             %}
           {% endif %}
           {%
-            render 'rimg3',
+            render 'rimg',
             img: initial_image
             size: '512x',
             lazy: true,

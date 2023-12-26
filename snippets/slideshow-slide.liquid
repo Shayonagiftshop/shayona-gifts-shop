@@ -1,4 +1,5 @@
- <link rel="stylesheet" as="style" data-href="{{ 'slide_show.css' | asset_url }}">
+{{ 'slide_show.css' | asset_url | stylesheet_tag }}
+
 {% liquid
   assign block_slide_image = block.settings.background_image
   assign block_slide_image_mobile = block.settings.mobile_background_image
@@ -108,7 +109,7 @@
     >
       {%- if block_slide_image != blank -%}
         {%
-          render 'rimg-ss',
+          render 'rimg',
           img: block_slide_image,
           class: 'slideshow-slide__image slideshow-slide__image--desktop',
           size: '16x9',
@@ -122,7 +123,7 @@
 
       {%- if block_slide_image_mobile != blank -%}
         {%
-          render 'rimg-ss',
+          render 'rimg',
           img: block_slide_image_mobile,
           class: 'slideshow-slide__image slideshow-slide__image--mobile',
           size: '800x',

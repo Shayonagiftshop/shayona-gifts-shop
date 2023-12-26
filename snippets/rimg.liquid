@@ -302,18 +302,35 @@
   {% endif %}
 
   <img
-    data-class="LazyLoad"
-    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-    data-src="{{ img | img_url: '720x', crop: crop }}"
-    data-mob-src="{{ img | img_url: '480x', crop: crop }}"
+    {% if rimg_format == '' %}
+      src="{{ img | img_url: rimg_size, crop: crop }}"
+    {% else %}
+      src="{{ img | img_url: rimg_size, crop: crop, format: rimg_format }}"
+    {% endif %}
     alt="{{ rimg_alt }}"
+
+    {% if lazy %}
+      data-rimg="lazy"
+      data-rimg-scale="{{ rimg_scale }}"
+      data-rimg-template="{{ rimg_url_template }}"
+      data-rimg-max="{{ img.width }}x{{ img.height }}"
+      data-rimg-crop="{{ crop }}"
+      {% if placeholder %}data-rimg-placeholder="{{ placeholder }}"{% endif %}
+      srcset="{{ rimg_placeholder }}"
+    {% else %}
+      data-rimg
+      srcset="{{ rimg_density_srcset }}"
+    {% endif %}
+
     {% if class != blank %}class="{{ class }}"{% endif %}
     {% if style != blank %}style="{{ style }}"{% endif %}
     {% if attr != blank %}{{ attr }}{% endif %}
   >
 {% endif %}
 
-
+{% if canvas %}
+  <div data-rimg-canvas></div>
+{% endif %}
 
 {%- capture _ -%}
   {% comment %}

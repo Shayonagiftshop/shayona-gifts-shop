@@ -1,28 +1,6 @@
 <!doctype html>
 <html class="no-js no-touch" lang="{{ request.locale.iso_code }}">
-  <head>
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-51PWYJ3RV4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-51PWYJ3RV4');
-</script>
-<!-- Event snippet for Google Shopping App Purchase conversion page -->
-<script>
-  gtag('event', 'conversion', {
-      'send_to': 'AW-11161240949/sqXOCI32hZsYEPWKjMop',
-      'value': 0.0,
-      'currency': 'INR',
-      'transaction_id': ''
-  });
-</script>
-
-   {% render 'appco-header' %}
-   {% render 'font-css' %}
-  {% render 'pagefly-head' %}
+  <head>{% render 'pagefly-head' %}
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="IE=edge">
 
@@ -30,17 +8,7 @@
     <link rel="preconnect" href="https://fonts.shopifycdn.com">
     <link rel="preconnect" href="https://v.shopify.com">
     <link rel="preconnect" href="https://cdn.shopifycloud.com">
-   
 
-    {% if template contains "index" %}
-	 {% render 'home-css' %}
-	{% else %}
-     {% render 'index-css' %}
-     {% render 'indexx-css' %}
-	{% endif %}
-	
-    
-   {% render 'custom-css' %}
     <title>
       {{- page_title -}}
 
@@ -98,19 +66,11 @@
     %}
 
     <link rel="preload" href="{{ settings.type_menu | font_url }}" as="font" crossorigin="anonymous">
-  
+    <link rel="preload" as="style" href="{{ 'theme.css' | asset_url }}">
 
-    {%- render 'header-scripts.zipifypages', renderctx: 'thm' -%}
-    
-  {%- if request.design_mode or template contains 'cart' or template contains 'checkout' -%}
-            {{ content_for_header }}
-    {%- else -%}
-            {% capture content_for_header2 %}{{ content_for_header }}{% endcapture %}
-            {{ content_for_header2 | replace: ' defer="defer" ', ' type="lazyload_js" ' | replace: " src=", " data-src="| replace: "DOMContentLoaded", "appco-DOMContentLoaded" | replace: "window.addEventListener('load', asyncLoad, false);", "window.addEventListener('appco-DOMContentLoaded', asyncLoad, false);" | replace: "addEventListener('load', prefetchAssets);", "addEventListener('appco-DOMContentLoaded', prefetchAssets);" }}
-            <script>var trekkie=[];trekkie.integrations=!0;window.BOOMR={},window.BOOMR.version=true;</script>
-    {%- endif -%}
+    {%- render 'header-scripts.zipifypages', renderctx: 'thm' -%}{{ content_for_header }}
 
-    <link rel="stylesheet" as="style" data-href="{{ 'theme.css' | asset_url }}">
+    {{ 'theme.css' | asset_url | stylesheet_tag }}
 
     {% comment %}Inject theme-object begin{% endcomment %}
     <script>
@@ -135,7 +95,7 @@
       };
     </script>
     {% comment %}Inject theme-object end{% endcomment %}
-{% render 'app-block' %}
+
   </head>
 
   <body class="template-{{ template.name }}" data-instant-allow-query-string {% if settings.reduce_animations %}data-reduce-animations{% endif %}>
@@ -431,8 +391,8 @@
       </script>
     {% endunless %}
 
-    <script type="lazyload_js"
-      data-src="{{ 'empire.js' | asset_url }}"
+    <script
+      src="{{ 'empire.js' | asset_url }}"
       data-scripts
       data-shopify-api-url="{{ 'api.jquery.js' | shopify_asset_url }}"
       data-shopify-countries="/services/javascripts/countries.js"
@@ -457,19 +417,17 @@
     </script>
 
     {% unless settings.reduce_animations %}
-      <link rel="stylesheet" as="style" data-href="{{ 'ripple.css' | asset_url }}">
+      {{ 'ripple.css' | asset_url | stylesheet_tag }}
     {% endunless %}
 
     <script
-      type="lazyload_js"
-      data-src="{{ 'instantPage.min.js' | asset_url }}"
-      data-appco-type="module"
-      
+      src="{{ 'instantPage.min.js' | asset_url }}"
+      type="module"
+      defer
     >
     </script>
-  <script type="lazyload_js" data-src="{{ '//cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/booster-page-speed-optimizer.js?23'}}"></script>
+  {{ '//cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/booster-page-speed-optimizer.js?23' | script_tag }}
 {%- render 'page-footer.zipifypages', renderctx: 'thm', ocuapp: oneclickupsellapp -%}
 {% render 'razorpay-magic-checkout' %}
-{% render 'appco-footer' %}
 </body>
 </html>

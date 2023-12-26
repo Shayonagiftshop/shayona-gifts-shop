@@ -1,0 +1,8 @@
+{% include 'product-content.zipifypages', contentprt: 'header' %}{% layout none %}
+
+{%
+  render 'product-grid-item',
+  product: product,
+  recently_viewed: true
+%}
+{% include 'product-content.zipifypages', contentprt: 'footer' %}

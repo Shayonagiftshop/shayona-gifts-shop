@@ -3,20 +3,56 @@
     "main": {
       "type": "static-product-3-columns",
       "blocks": {
-        "title": { "type": "title", "settings": {} },
-        "vendor": { "type": "vendor", "settings": {} },
-        "price": { "type": "price", "settings": {} },
-        "description": { "type": "description", "settings": {} }
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "vendor",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
       },
-      "block_order": ["title", "vendor", "price", "description"],
-      "settings": {}
+      "block_order": [
+        "title",
+        "vendor",
+        "price",
+        "description"
+      ],
+      "settings": {
+      }
     },
     "recommendations": {
       "type": "static-product-recommendations",
-      "settings": {}
+      "settings": {
+      }
     },
-    "reviews": { "type": "static-product-reviews", "settings": {} },
-    "recently-viewed": { "type": "static-recently-viewed", "settings": {} }
+    "reviews": {
+      "type": "static-product-reviews",
+      "settings": {
+      }
+    },
+    "recently-viewed": {
+      "type": "static-recently-viewed",
+      "settings": {
+      }
+    }
   },
-  "order": ["main", "recommendations", "reviews", "recently-viewed"]
+  "order": [
+    "main",
+    "recommendations",
+    "reviews",
+    "recently-viewed"
+  ]
 }

@@ -1,1 +1,724 @@
-{"sections":{"dynamic_slideshow":{"type":"dynamic-slideshow","blocks":{"slide-4":{"type":"slide","settings":{"background_image":"shopify:\/\/shop_images\/WhatsApp_Image_2023-03-07_at_7.22.28_PM_7ec4d64e-9a5c-4e24-b870-2821335938e8.jpg","mobile_background_image":"shopify:\/\/shop_images\/600_by_600_1.jpg","title":"","text":"","color":"#ffffff","link":"shopify:\/\/collections\/personalize-gifts","text_alignment":"center","button_one_label":"Shop Now","button_one_link":"shopify:\/\/collections\/personalized-lamp","button_one_style":"secondary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":false,"overlay_color":"#000000","overlay_opacity":10}},"slide-2":{"type":"slide","settings":{"background_image":"shopify:\/\/shop_images\/banner_1.jpg","mobile_background_image":"shopify:\/\/shop_images\/600_by_600.jpg","title":"","text":"","color":"#ffffff","link":"shopify:\/\/collections\/personalize-gifts","text_alignment":"right","button_one_label":"","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":false,"overlay_color":"#ffffff","overlay_opacity":4}},"slide-1":{"type":"slide","settings":{"background_image":"shopify:\/\/shop_images\/1000_x_400_px.jpg","mobile_background_image":"shopify:\/\/shop_images\/5.jpg","title":"","text":"","color":"#ffffff","link":"shopify:\/\/products\/personalized-name-acrylic-led-table-lamp","text_alignment":"right","button_one_label":"","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"secondary","show_overlay":true,"overlay_color":"#000000","overlay_opacity":13}},"e392289e-6568-4f42-adc5-71b176ebecd1":{"type":"slide","disabled":true,"settings":{"title":"Slide","text":"Introduce customers to your shop with lifestyle and product imagery","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"Button","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":true,"overlay_color":"#000000","overlay_opacity":50}},"slide-3":{"type":"slide","disabled":true,"settings":{"mobile_background_image":"shopify:\/\/shop_images\/il_794xN.2951535845_6xjn_1.jpg","title":"","text":"","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"secondary","show_overlay":false,"overlay_color":"#000000","overlay_opacity":20}}},"block_order":["slide-4","slide-2","slide-1","e392289e-6568-4f42-adc5-71b176ebecd1","slide-3"],"settings":{"enable_autoplay":true,"autoplay_duration":5,"slideshow_width":"full","slideshow_height":"original","slideshow_height_mobile":"large","slideshow_text_below_image":false}},"dynamic_collection_list":{"type":"dynamic-collection-list","blocks":{"56df33d6-9c54-4928-89ad-ba9bd3811278":{"type":"collection","settings":{"collection":"3d-illusion-lamp","image":"shopify:\/\/shop_images\/Screenshot_2023-12-21_175917.jpg","title":""}},"collection-4":{"type":"collection","settings":{"collection":"birthday-gift","image":"shopify:\/\/shop_images\/WhatsAppImage2023-06-02at4.21.52PM_4.jpg","title":""}},"collection-1":{"type":"collection","settings":{"collection":"gift-for-couple","image":"shopify:\/\/shop_images\/Capture.png","title":""}},"collection-2":{"type":"collection","settings":{"collection":"anniversary-gift","image":"shopify:\/\/shop_images\/WhatsAppImage2023-06-02at4.21.53PM.jpg","title":""}},"collection-5":{"type":"collection","settings":{"collection":"spotify-lamp","image":"shopify:\/\/shop_images\/4_1ab1a3d4-92f5-4d40-9a69-6cab205c006f.jpg","title":""}},"f4f9d414-95c1-4e6a-bad6-a516c9640e2e":{"type":"collection","settings":{"collection":"wall-logo","image":"shopify:\/\/shop_images\/WhatsAppImage2022-08-03at1.19.12PM_5_300x300_0b01bde9-ac9d-4c99-ac6a-5df12e9498a3.jpg","title":""}},"538350a5-b850-47e1-acb2-68e7376c3652":{"type":"collection","settings":{"collection":"personalized-wooden-led-frame","image":"shopify:\/\/shop_images\/Screenshot_2023-12-21_180254.jpg","title":""}},"ff4df7c6-251a-4c5c-ada3-5cb7142aa118":{"type":"collection","settings":{"collection":"neon-light-1","image":"shopify:\/\/shop_images\/il_794xN.3526507423_steb_2.jpg","title":""}}},"block_order":["56df33d6-9c54-4928-89ad-ba9bd3811278","collection-4","collection-1","collection-2","collection-5","f4f9d414-95c1-4e6a-bad6-a516c9640e2e","538350a5-b850-47e1-acb2-68e7376c3652","ff4df7c6-251a-4c5c-ada3-5cb7142aa118"],"settings":{"title":"Collection list","thumbnail_columns_desktop":4,"thumbnail_columns_mobile":2,"image-crop":"original","cta_label":"","cta_link":"","cta_button_style":"secondary"}},"dynamic_promo_mosaic":{"type":"dynamic-promo-mosaic","blocks":{"promotion-1":{"type":"promotion","disabled":true,"settings":{"title":"Mosaic","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#000000","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"rgba(0,0,0,0)","opacity":50}},"promotion-2":{"type":"promotion","disabled":true,"settings":{"title":"Mosaic","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#000000","block_link":"","button_text":"","button_style":"primary","show_overlay":true,"background":"#000000","opacity":5}},"promotion-3":{"type":"promotion","disabled":true,"settings":{"title":"Mosaic","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#000000","block_link":"","button_text":"","button_style":"primary","show_overlay":true,"background":"#000000","opacity":3}},"promotion-4":{"type":"promotion","settings":{"title":"Mosaic","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#000000","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["promotion-1","promotion-2","promotion-3","promotion-4"],"disabled":true,"settings":{"title":"","section_height":"small","text_alignment":"top-left","maintain_aspect_ratio":true,"compress_blocks":false}},"dynamic_featured_collection-2":{"type":"dynamic-featured-collection","blocks":{"title-card":{"type":"title_card","disabled":true,"settings":{"horizontal_size":"3","vertical_size":"2","text_alignment":"center-center","pre_heading":"New Collection","heading":"Collection","text_color":"#ffffff","cta_label":"See more","overlay_color":"#000000","overlay_opacity":10}}},"block_order":["title-card"],"settings":{"title":"Product collection","layout":"grid","collection":"personalized-lamp","product_count":25,"cta_label":"","cta_button_style":"primary"}},"dynamic_featured_collection":{"type":"dynamic-featured-collection","blocks":{"view-all-card":{"type":"view_all_card","settings":{"text_alignment":"center-center","pre_heading":"View all","heading":"Collection","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":50}}},"block_order":["view-all-card"],"disabled":true,"settings":{"title":"","layout":"slideshow","collection":"3d-illusion-lamp","product_count":9,"cta_label":"","cta_button_style":"primary"}},"dynamic_featured_product":{"type":"dynamic-featured-product","blocks":{"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"view-product-link":{"type":"view-product-link","settings":{"text":"View full details"}}},"block_order":["title","price","view-product-link"],"disabled":true,"settings":{"product":"illusion-lamp-4-heart-2","gallery_aspect_ratio":"natural","gallery_image_crop":true,"gallery_thumbnail_position":"left","gallery_video_autoplay":false,"gallery_video_looping":true,"gallery_hover_zoom":"disabled"}},"dynamic_promo_grid":{"type":"dynamic-promo-grid","blocks":{"promotion-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/4_1ab1a3d4-92f5-4d40-9a69-6cab205c006f.jpg","background_position":"bottom-center","title":"","text":"","color":"#000000","block_link":"shopify:\/\/products\/spotify-plaque-1","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"promotion-2":{"type":"promotion","disabled":true,"settings":{"background_position":"center-center","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#ffffff","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"f37a775a-9c03-48b0-bfac-ee968d587399":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/WhatsApp_Image_2022-11-12_at_11.04.32_AM.jpg","background_position":"center-center","title":"Grid","text":"","color":"#4d4d4d","block_link":"shopify:\/\/collections\/personalized-wooden-led-frame","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"ae12a3a9-e286-4bba-bf46-69b191f33563":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/WhatsAppImage2022-08-03at1.19.12PM_5_300x300_669eddfe-4b01-4b6b-a1e5-6fdee44b2cde.jpg","background_position":"center-center","title":"","text":"","color":"#2f60aa","block_link":"shopify:\/\/products\/couple-heart-shape-monogram-with-light-wooden-name-led-lamp-can-customized-with-any-name","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"promotion-3":{"type":"promotion","disabled":true,"settings":{"background_position":"center-left","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#ffffff","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}},"promotion-4":{"type":"promotion","disabled":true,"settings":{"background_position":"center-left","title":"Grid","text":"Use this section to welcome customers to your store, say a bit about your brand, or share news.","color":"#ffffff","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["promotion-1","promotion-2","f37a775a-9c03-48b0-bfac-ee968d587399","ae12a3a9-e286-4bba-bf46-69b191f33563","promotion-3","promotion-4"],"settings":{"title":"PHOTO WITH LAMP","section_height":"medium","section_columns":3,"text_alignment":"center-center"}},"dynamic_highlights_banner":{"type":"dynamic-highlights-banner","blocks":{"highlight-1":{"type":"highlight","settings":{"icon":"icon-delivery","image":"shopify:\/\/shop_images\/04.png","title":"1.5 LAC+ SMILES","text":"","link":""}},"highlight-2":{"type":"highlight","settings":{"icon":"icon-cell-phone","image":"shopify:\/\/shop_images\/03.png","title":"7 DAYS REPLACEMENT","text":"","link":""}},"highlight-3":{"type":"highlight","settings":{"icon":"icon-chat-alternate","image":"shopify:\/\/shop_images\/05.png","title":"100% PHOTO PRIVACY","text":"","link":""}},"highlight-4":{"type":"highlight","settings":{"icon":"icon-pin","image":"shopify:\/\/shop_images\/02.png","title":"SMILES GUARANTEED","text":"","link":""}}},"block_order":["highlight-1","highlight-2","highlight-3","highlight-4"],"settings":{"section_spacing":false,"section_width":"content-width","icon_layout":"center","color":"#1d1d1d","icon_color":"#046e82","background_color":"#ffffff","mobile_layout":"grid"}},"dynamic_blog_posts":{"type":"dynamic-blog-posts","settings":{"title":"Blogs Posts","blog":"news","show_date":true,"show_author":false,"show_excerpt":false}},"dynamic_testimonials":{"type":"dynamic-testimonials","blocks":{"testimonial-2":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/269966416_873126303360006_6657156375591128004_n.jpg","star_rating":"4.5","text":"<p>A Great Quote,And Has A Very Good Quality! It is the best gift I have gotten for anyone!!<\/p>","author":"<p>- Sayli<\/p>"}},"testimonial-1":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/il_794xN.2951535845_6xjn_1.jpg","star_rating":"4.5","text":"<p>Too Good, Great Price And Quality , Will Buy Again. Thank You ! shayonagifts.com<\/p>","author":"<p>- Bhavana<\/p>"}},"testimonial-3":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/WhatsAppImage2022-02-28at16.36.59_1.jpg","star_rating":"4.5","text":"<p>Absolutely beautiful item, I’m sure the person I am gifting to will probably cry with how beautiful and sentimental it is! Thank you! I would highly recommend this shop! ⭐️⭐️⭐️⭐️⭐️<\/p>","author":"<p>Ankita M<\/p>"}},"testimonial-4":{"type":"testimonial","disabled":true,"settings":{"star_rating":"4.5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","author":"<p>Author's name<\/p>"}},"testimonial-5":{"type":"testimonial","disabled":true,"settings":{"star_rating":"4.5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","author":"<p>Author's name<\/p>"}},"testimonial-6":{"type":"testimonial","disabled":true,"settings":{"star_rating":"4.5","text":"<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>","author":"<p>Author's name<\/p>"}}},"block_order":["testimonial-2","testimonial-1","testimonial-3","testimonial-4","testimonial-5","testimonial-6"],"settings":{"title":"Testimonials","image_crop":"original","text_size":"medium"}},"165686114081e8d016":{"type":"dynamic-collection-list","blocks":{"1656861140103f3642-0":{"type":"collection","settings":{"collection":"","title":""}},"1656861140103f3642-1":{"type":"collection","settings":{"collection":"","title":""}},"1656861140103f3642-2":{"type":"collection","settings":{"collection":"","title":""}},"1656861140103f3642-3":{"type":"collection","settings":{"collection":"","title":""}},"1656861140103f3642-4":{"type":"collection","settings":{"collection":"","title":""}},"f35680dd-e373-4665-aad9-006250aff963":{"type":"collection","settings":{"collection":"","title":""}}},"block_order":["1656861140103f3642-0","1656861140103f3642-1","1656861140103f3642-2","1656861140103f3642-3","1656861140103f3642-4","f35680dd-e373-4665-aad9-006250aff963"],"disabled":true,"settings":{"title":"Trending Now","thumbnail_columns_desktop":5,"thumbnail_columns_mobile":2,"image-crop":"original","cta_label":"View All","cta_link":"","cta_button_style":"primary"}}},"order":["dynamic_slideshow","dynamic_collection_list","dynamic_promo_mosaic","dynamic_featured_collection-2","dynamic_featured_collection","dynamic_featured_product","dynamic_promo_grid","dynamic_highlights_banner","dynamic_blog_posts","dynamic_testimonials","165686114081e8d016"]}
+{
+  "sections": {
+    "dynamic_slideshow": {
+      "type": "dynamic-slideshow",
+      "blocks": {
+        "slide-4": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/WhatsApp_Image_2023-03-07_at_7.22.28_PM_7ec4d64e-9a5c-4e24-b870-2821335938e8.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/600_by_600_1.jpg",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "shopify:\/\/collections\/personalize-gifts",
+            "text_alignment": "center",
+            "button_one_label": "Shop Now",
+            "button_one_link": "shopify:\/\/collections\/personalized-lamp",
+            "button_one_style": "secondary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 10
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/banner_1.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/600_by_600.jpg",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "shopify:\/\/collections\/personalize-gifts",
+            "text_alignment": "right",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 4
+          }
+        },
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/1000_x_400_px.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/5.jpg",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "shopify:\/\/products\/personalized-name-acrylic-led-table-lamp",
+            "text_alignment": "right",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "secondary",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_opacity": 13
+          }
+        },
+        "e392289e-6568-4f42-adc5-71b176ebecd1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "slide-3": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "mobile_background_image": "shopify:\/\/shop_images\/il_794xN.2951535845_6xjn_1.jpg",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "secondary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "slide-4",
+        "slide-2",
+        "slide-1",
+        "e392289e-6568-4f42-adc5-71b176ebecd1",
+        "slide-3"
+      ],
+      "settings": {
+        "enable_autoplay": true,
+        "autoplay_duration": 5,
+        "slideshow_width": "full",
+        "slideshow_height": "original",
+        "slideshow_height_mobile": "large",
+        "slideshow_text_below_image": false
+      }
+    },
+    "dynamic_collection_list": {
+      "type": "dynamic-collection-list",
+      "blocks": {
+        "56df33d6-9c54-4928-89ad-ba9bd3811278": {
+          "type": "collection",
+          "settings": {
+            "collection": "3d-illusion-lamp",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-21_175917.jpg",
+            "title": ""
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "birthday-gift",
+            "image": "shopify:\/\/shop_images\/WhatsAppImage2023-06-02at4.21.52PM_4.jpg",
+            "title": ""
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "gift-for-couple",
+            "image": "shopify:\/\/shop_images\/Capture.png",
+            "title": ""
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "anniversary-gift",
+            "image": "shopify:\/\/shop_images\/WhatsAppImage2023-06-02at4.21.53PM.jpg",
+            "title": ""
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "spotify-lamp",
+            "image": "shopify:\/\/shop_images\/4_1ab1a3d4-92f5-4d40-9a69-6cab205c006f.jpg",
+            "title": ""
+          }
+        },
+        "f4f9d414-95c1-4e6a-bad6-a516c9640e2e": {
+          "type": "collection",
+          "settings": {
+            "collection": "wall-logo",
+            "image": "shopify:\/\/shop_images\/WhatsAppImage2022-08-03at1.19.12PM_5_300x300_0b01bde9-ac9d-4c99-ac6a-5df12e9498a3.jpg",
+            "title": ""
+          }
+        },
+        "538350a5-b850-47e1-acb2-68e7376c3652": {
+          "type": "collection",
+          "settings": {
+            "collection": "personalized-wooden-led-frame",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-21_180254.jpg",
+            "title": ""
+          }
+        },
+        "ff4df7c6-251a-4c5c-ada3-5cb7142aa118": {
+          "type": "collection",
+          "settings": {
+            "collection": "neon-light-1",
+            "image": "shopify:\/\/shop_images\/il_794xN.3526507423_steb_2.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "56df33d6-9c54-4928-89ad-ba9bd3811278",
+        "collection-4",
+        "collection-1",
+        "collection-2",
+        "collection-5",
+        "f4f9d414-95c1-4e6a-bad6-a516c9640e2e",
+        "538350a5-b850-47e1-acb2-68e7376c3652",
+        "ff4df7c6-251a-4c5c-ada3-5cb7142aa118"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "thumbnail_columns_desktop": 4,
+        "thumbnail_columns_mobile": 2,
+        "image-crop": "original",
+        "cta_label": "",
+        "cta_link": "",
+        "cta_button_style": "secondary"
+      }
+    },
+    "dynamic_promo_mosaic": {
+      "type": "dynamic-promo-mosaic",
+      "blocks": {
+        "promotion-1": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "title": "Mosaic",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#000000",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "rgba(0,0,0,0)",
+            "opacity": 50
+          }
+        },
+        "promotion-2": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "title": "Mosaic",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#000000",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#000000",
+            "opacity": 5
+          }
+        },
+        "promotion-3": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "title": "Mosaic",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#000000",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#000000",
+            "opacity": 3
+          }
+        },
+        "promotion-4": {
+          "type": "promotion",
+          "settings": {
+            "title": "Mosaic",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#000000",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "promotion-1",
+        "promotion-2",
+        "promotion-3",
+        "promotion-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "section_height": "small",
+        "text_alignment": "top-left",
+        "maintain_aspect_ratio": true,
+        "compress_blocks": false
+      }
+    },
+    "dynamic_featured_collection-2": {
+      "type": "dynamic-featured-collection",
+      "blocks": {
+        "title-card": {
+          "type": "title_card",
+          "disabled": true,
+          "settings": {
+            "horizontal_size": "3",
+            "vertical_size": "2",
+            "text_alignment": "center-center",
+            "pre_heading": "New Collection",
+            "heading": "Collection",
+            "text_color": "#ffffff",
+            "cta_label": "See more",
+            "overlay_color": "#000000",
+            "overlay_opacity": 10
+          }
+        }
+      },
+      "block_order": [
+        "title-card"
+      ],
+      "settings": {
+        "title": "Product collection",
+        "layout": "grid",
+        "collection": "personalized-lamp",
+        "product_count": 25,
+        "cta_label": "",
+        "cta_button_style": "primary"
+      }
+    },
+    "dynamic_featured_collection": {
+      "type": "dynamic-featured-collection",
+      "blocks": {
+        "view-all-card": {
+          "type": "view_all_card",
+          "settings": {
+            "text_alignment": "center-center",
+            "pre_heading": "View all",
+            "heading": "Collection",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "view-all-card"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "layout": "slideshow",
+        "collection": "3d-illusion-lamp",
+        "product_count": 9,
+        "cta_label": "",
+        "cta_button_style": "primary"
+      }
+    },
+    "dynamic_featured_product": {
+      "type": "dynamic-featured-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "view-product-link": {
+          "type": "view-product-link",
+          "settings": {
+            "text": "View full details"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "view-product-link"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "illusion-lamp-4-heart-2",
+        "gallery_aspect_ratio": "natural",
+        "gallery_image_crop": true,
+        "gallery_thumbnail_position": "left",
+        "gallery_video_autoplay": false,
+        "gallery_video_looping": true,
+        "gallery_hover_zoom": "disabled"
+      }
+    },
+    "dynamic_promo_grid": {
+      "type": "dynamic-promo-grid",
+      "blocks": {
+        "promotion-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1ab1a3d4-92f5-4d40-9a69-6cab205c006f.jpg",
+            "background_position": "bottom-center",
+            "title": "",
+            "text": "",
+            "color": "#000000",
+            "block_link": "shopify:\/\/products\/spotify-plaque-1",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "promotion-2": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "background_position": "center-center",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "f37a775a-9c03-48b0-bfac-ee968d587399": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-12-28_165627.jpg",
+            "background_position": "center-center",
+            "title": "Grid",
+            "text": "",
+            "color": "#4d4d4d",
+            "block_link": "shopify:\/\/collections\/personalized-wooden-led-frame",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "ae12a3a9-e286-4bba-bf46-69b191f33563": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsAppImage2022-08-03at1.19.12PM_5_300x300_669eddfe-4b01-4b6b-a1e5-6fdee44b2cde.jpg",
+            "background_position": "center-center",
+            "title": "",
+            "text": "",
+            "color": "#2f60aa",
+            "block_link": "shopify:\/\/products\/couple-heart-shape-monogram-with-light-wooden-name-led-lamp-can-customized-with-any-name",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "promotion-3": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "background_position": "center-left",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        },
+        "promotion-4": {
+          "type": "promotion",
+          "disabled": true,
+          "settings": {
+            "background_position": "center-left",
+            "title": "Grid",
+            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "promotion-1",
+        "promotion-2",
+        "f37a775a-9c03-48b0-bfac-ee968d587399",
+        "ae12a3a9-e286-4bba-bf46-69b191f33563",
+        "promotion-3",
+        "promotion-4"
+      ],
+      "settings": {
+        "title": "PHOTO WITH LAMP",
+        "section_height": "medium",
+        "section_columns": 3,
+        "text_alignment": "center-center"
+      }
+    },
+    "dynamic_highlights_banner": {
+      "type": "dynamic-highlights-banner",
+      "blocks": {
+        "highlight-1": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-delivery",
+            "image": "shopify:\/\/shop_images\/04.png",
+            "title": "1.5 LAC+ SMILES",
+            "text": "",
+            "link": ""
+          }
+        },
+        "highlight-2": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-cell-phone",
+            "image": "shopify:\/\/shop_images\/03.png",
+            "title": "7 DAYS REPLACEMENT",
+            "text": "",
+            "link": ""
+          }
+        },
+        "highlight-3": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-chat-alternate",
+            "image": "shopify:\/\/shop_images\/05.png",
+            "title": "100% PHOTO PRIVACY",
+            "text": "",
+            "link": ""
+          }
+        },
+        "highlight-4": {
+          "type": "highlight",
+          "settings": {
+            "icon": "icon-pin",
+            "image": "shopify:\/\/shop_images\/02.png",
+            "title": "SMILES GUARANTEED",
+            "text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "highlight-1",
+        "highlight-2",
+        "highlight-3",
+        "highlight-4"
+      ],
+      "settings": {
+        "section_spacing": false,
+        "section_width": "content-width",
+        "icon_layout": "center",
+        "color": "#1d1d1d",
+        "icon_color": "#046e82",
+        "background_color": "#ffffff",
+        "mobile_layout": "grid"
+      }
+    },
+    "dynamic_blog_posts": {
+      "type": "dynamic-blog-posts",
+      "settings": {
+        "title": "Blogs Posts",
+        "blog": "news",
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": false
+      }
+    },
+    "dynamic_testimonials": {
+      "type": "dynamic-testimonials",
+      "blocks": {
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/269966416_873126303360006_6657156375591128004_n.jpg",
+            "star_rating": "4.5",
+            "text": "<p>A Great Quote,And Has A Very Good Quality! It is the best gift I have gotten for anyone!!<\/p>",
+            "author": "<p>- Sayli<\/p>"
+          }
+        },
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/il_794xN.2951535845_6xjn_1.jpg",
+            "star_rating": "4.5",
+            "text": "<p>Too Good, Great Price And Quality , Will Buy Again. Thank You ! shayonagifts.com<\/p>",
+            "author": "<p>- Bhavana<\/p>"
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsAppImage2022-02-28at16.36.59_1.jpg",
+            "star_rating": "4.5",
+            "text": "<p>Absolutely beautiful item, I’m sure the person I am gifting to will probably cry with how beautiful and sentimental it is! Thank you! I would highly recommend this shop! ⭐️⭐️⭐️⭐️⭐️<\/p>",
+            "author": "<p>Ankita M<\/p>"
+          }
+        },
+        "testimonial-4": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "star_rating": "4.5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "<p>Author's name<\/p>"
+          }
+        },
+        "testimonial-5": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "star_rating": "4.5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "<p>Author's name<\/p>"
+          }
+        },
+        "testimonial-6": {
+          "type": "testimonial",
+          "disabled": true,
+          "settings": {
+            "star_rating": "4.5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
+            "author": "<p>Author's name<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-2",
+        "testimonial-1",
+        "testimonial-3",
+        "testimonial-4",
+        "testimonial-5",
+        "testimonial-6"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "image_crop": "original",
+        "text_size": "medium"
+      }
+    },
+    "165686114081e8d016": {
+      "type": "dynamic-collection-list",
+      "blocks": {
+        "1656861140103f3642-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "1656861140103f3642-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "1656861140103f3642-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "1656861140103f3642-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "1656861140103f3642-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "f35680dd-e373-4665-aad9-006250aff963": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656861140103f3642-0",
+        "1656861140103f3642-1",
+        "1656861140103f3642-2",
+        "1656861140103f3642-3",
+        "1656861140103f3642-4",
+        "f35680dd-e373-4665-aad9-006250aff963"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Trending Now",
+        "thumbnail_columns_desktop": 5,
+        "thumbnail_columns_mobile": 2,
+        "image-crop": "original",
+        "cta_label": "View All",
+        "cta_link": "",
+        "cta_button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "dynamic_slideshow",
+    "dynamic_collection_list",
+    "dynamic_promo_mosaic",
+    "dynamic_featured_collection-2",
+    "dynamic_featured_collection",
+    "dynamic_featured_product",
+    "dynamic_promo_grid",
+    "dynamic_highlights_banner",
+    "dynamic_blog_posts",
+    "dynamic_testimonials",
+    "165686114081e8d016"
+  ]
+}

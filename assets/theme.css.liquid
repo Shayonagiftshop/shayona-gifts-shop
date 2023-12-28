@@ -20528,7 +20528,7 @@ body:not(.user-is-tabbing) .surface-pick-up-embed__modal-btn:focus {
   left: 0;
   z-index: 505;
   display: none;
-  background: {{ settings.color_overlay | color_modify: 'alpha', overlay_opacity }};
+  /* background: {{ settings.color_overlay | color_modify: 'alpha', overlay_opacity }}; */
   opacity: 0;
 }
 .site-main-dimmer[data-animation] {
@@ -20540,10 +20540,10 @@ body:not(.user-is-tabbing) .surface-pick-up-embed__modal-btn:focus {
 .site-main-dimmer[data-animation="open=>closed"] {
   transition: opacity 125ms cubic-bezier(0.4, 0, 1, 1) 75ms;
 }
-.site-main-dimmer[data-animation-state=open] {
+/* .site-main-dimmer[data-animation-state=open] {
   display: block;
   opacity: 1;
-}
+} */
 
 .section--canonical {
   margin-top: {{ space_xx_large | divided_by: 16.0 | append: 'rem' }};

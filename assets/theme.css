@@ -21526,7 +21526,10 @@ body:not(.user-is-tabbing) .surface-pick-up-embed__modal-btn:focus {
   top: 100%;
   z-index: 702;
   box-sizing: content-box;
+  box-shadow: 0 8px 8px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 0 0px 10px 10px !important;
   display: none;
+  border-radius: 15px;
   background-color: rgb(255, 255, 255);
 }
 .site-navigation .navmenu-depth-2 .navmenu-link {
@@ -21543,7 +21546,8 @@ body:not(.user-is-tabbing) .surface-pick-up-embed__modal-btn:focus {
 }
 .site-navigation .navmenu-depth-2 .navmenu-link:hover,
 .site-navigation .navmenu-depth-2 .navmenu-link.navmenu-active {
-  color: #494d41;
+  color: #fff;
+  background-color: rgb(176, 11, 11);
 }
 .site-navigation .navmenu-depth-2 .navmenu-link:focus {
   outline: solid rgba(73, 77, 65, 0.5);

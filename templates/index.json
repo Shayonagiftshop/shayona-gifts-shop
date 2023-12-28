@@ -551,6 +551,7 @@
         "highlight-4"
       ],
       "settings": {
+        "title": "Services",
         "section_spacing": false,
         "section_width": "content-width",
         "icon_layout": "center",

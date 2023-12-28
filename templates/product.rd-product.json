@@ -1,1 +1,108 @@
-{"sections":{"main":{"type":"static-product","blocks":{"description":{"type":"description","settings":{}},"title":{"type":"title","settings":{}},"6ce34584-c19b-4a73-a1a7-418855c0fe06":{"type":"shopify:\/\/apps\/ryviu-product-reviews-qa\/blocks\/ryviu-total\/807ad6ed-1a6a-4559-abea-ed062858d9da","settings":{"show_when_no_reviews":true,"show_average_rating":true}},"vendor":{"type":"vendor","disabled":true,"settings":{}},"price":{"type":"price","settings":{}},"form":{"type":"form","settings":{}},"share":{"type":"share","settings":{}},"eae66e58-479d-4c1c-8521-00d629afb5a3":{"type":"collapsible-tab","disabled":true,"settings":{"collapsible_tab_heading":"Collapsible tab","collapsible_tab_text":"<p>Use this text to share information about your product.<\/p>"}},"a9fe8f23-b912-424e-b21b-325c2b06e478":{"type":"text","settings":{"text":"<p>Text block<\/p>"}}},"block_order":["description","title","6ce34584-c19b-4a73-a1a7-418855c0fe06","vendor","price","form","share","eae66e58-479d-4c1c-8521-00d629afb5a3","a9fe8f23-b912-424e-b21b-325c2b06e478"],"settings":{"gallery_aspect_ratio":"square","gallery_image_crop":false,"gallery_thumbnail_position":"left","gallery_video_autoplay":false,"gallery_video_looping":true,"gallery_hover_zoom":"disabled","gallery_click_to_zoom":"always"}},"zp-product-header-content":{"type":"product-header-content-zipifypages","settings":{}},"09d6aa74-7645-400d-b7e8-bd780fb99f19":{"type":"dynamic-image-with-text","settings":{"section_heading":"Image with text","crop":"center","desktop_height":"natural","mobile_height":"natural","desktop_image_alignment":"right","mobile_image_alignment":"top","heading":"Image with text","subheading":"<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_alignment":"left","button_label":"Button","button_link":""}},"recommendations":{"type":"static-product-recommendations","settings":{"show_product_recommendations":true,"product_recommendations_heading":"You may also like"}},"reviews":{"type":"static-product-reviews","settings":{}},"167092884264f895c5":{"type":"apps","blocks":{"c6b47a1a-90ff-4534-82ed-8d90ebd5416e":{"type":"shopify:\/\/apps\/ryviu-product-reviews-qa\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da","settings":{"r_wapper_class":"","r_max_width":1920,"r_padding_block":0,"hide_when_no_reviews":false,"one_col_on_mobile":false,"hide_title_image_form":false}}},"block_order":["c6b47a1a-90ff-4534-82ed-8d90ebd5416e"],"settings":{"include_padding":true}},"recently-viewed":{"type":"static-recently-viewed","settings":{"enable_recently_viewed_products":true}},"zp-product-footer-content":{"type":"product-footer-content-zipifypages","settings":{}}},"order":["main","zp-product-header-content","09d6aa74-7645-400d-b7e8-bd780fb99f19","recommendations","reviews","167092884264f895c5","recently-viewed","zp-product-footer-content"]}
+{
+  "sections": {
+    "main": {
+      "type": "static-product",
+      "blocks": {
+        "description": { "type": "description", "settings": {} },
+        "title": { "type": "title", "settings": {} },
+        "6ce34584-c19b-4a73-a1a7-418855c0fe06": {
+          "type": "shopify://apps/ryviu-product-reviews-qa/blocks/ryviu-total/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "show_when_no_reviews": true,
+            "show_average_rating": true
+          }
+        },
+        "vendor": { "type": "vendor", "disabled": true, "settings": {} },
+        "price": { "type": "price", "settings": {} },
+        "form": { "type": "form", "settings": {} },
+        "share": { "type": "share", "settings": {} },
+        "eae66e58-479d-4c1c-8521-00d629afb5a3": {
+          "type": "collapsible-tab",
+          "disabled": true,
+          "settings": {
+            "collapsible_tab_heading": "Collapsible tab",
+            "collapsible_tab_text": "<p>Use this text to share information about your product.</p>"
+          }
+        },
+        "a9fe8f23-b912-424e-b21b-325c2b06e478": {
+          "type": "text",
+          "settings": { "text": "<p>Text block</p>" }
+        }
+      },
+      "block_order": [
+        "description",
+        "title",
+        "6ce34584-c19b-4a73-a1a7-418855c0fe06",
+        "vendor",
+        "price",
+        "form",
+        "share",
+        "eae66e58-479d-4c1c-8521-00d629afb5a3",
+        "a9fe8f23-b912-424e-b21b-325c2b06e478"
+      ],
+      "settings": {
+        "gallery_aspect_ratio": "square",
+        "gallery_image_crop": false,
+        "gallery_thumbnail_position": "left",
+        "gallery_video_autoplay": false,
+        "gallery_video_looping": true,
+        "gallery_hover_zoom": "disabled",
+        "gallery_click_to_zoom": "always"
+      }
+    },
+    "09d6aa74-7645-400d-b7e8-bd780fb99f19": {
+      "type": "dynamic-image-with-text",
+      "settings": {
+        "section_heading": "Image with text",
+        "crop": "center",
+        "desktop_height": "natural",
+        "mobile_height": "natural",
+        "desktop_image_alignment": "right",
+        "mobile_image_alignment": "top",
+        "heading": "Image with text",
+        "subheading": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "text_alignment": "left",
+        "button_label": "Button",
+        "button_link": ""
+      }
+    },
+    "recommendations": {
+      "type": "static-product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like"
+      }
+    },
+    "reviews": { "type": "static-product-reviews", "settings": {} },
+    "167092884264f895c5": {
+      "type": "apps",
+      "blocks": {
+        "c6b47a1a-90ff-4534-82ed-8d90ebd5416e": {
+          "type": "shopify://apps/ryviu-product-reviews-qa/blocks/ryviu-widget/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "r_wapper_class": "",
+            "r_max_width": 1920,
+            "r_padding_block": 0,
+            "hide_when_no_reviews": false,
+            "one_col_on_mobile": false,
+            "hide_title_image_form": false
+          }
+        }
+      },
+      "block_order": ["c6b47a1a-90ff-4534-82ed-8d90ebd5416e"],
+      "settings": { "include_padding": true }
+    },
+    "recently-viewed": {
+      "type": "static-recently-viewed",
+      "settings": { "enable_recently_viewed_products": true }
+    }
+  },
+  "order": [
+    "main",
+    "09d6aa74-7645-400d-b7e8-bd780fb99f19",
+    "recommendations",
+    "reviews",
+    "167092884264f895c5",
+    "recently-viewed"
+  ]
+}

@@ -1,1 +1,22 @@
-{"sections":{"zp-product-header-content":{"type":"product-header-content-zipifypages","settings":{}},"main":{"type":"static-product-3-columns","blocks":{"title":{"type":"title","settings":{}},"vendor":{"type":"vendor","settings":{}},"price":{"type":"price","settings":{}},"description":{"type":"description","settings":{}}},"block_order":["title","vendor","price","description"],"settings":{}},"recommendations":{"type":"static-product-recommendations","settings":{}},"reviews":{"type":"static-product-reviews","settings":{}},"recently-viewed":{"type":"static-recently-viewed","settings":{}},"zp-product-footer-content":{"type":"product-footer-content-zipifypages","settings":{}}},"order":["zp-product-header-content","main","recommendations","reviews","recently-viewed","zp-product-footer-content"]}
+{
+  "sections": {
+    "main": {
+      "type": "static-product-3-columns",
+      "blocks": {
+        "title": { "type": "title", "settings": {} },
+        "vendor": { "type": "vendor", "settings": {} },
+        "price": { "type": "price", "settings": {} },
+        "description": { "type": "description", "settings": {} }
+      },
+      "block_order": ["title", "vendor", "price", "description"],
+      "settings": {}
+    },
+    "recommendations": {
+      "type": "static-product-recommendations",
+      "settings": {}
+    },
+    "reviews": { "type": "static-product-reviews", "settings": {} },
+    "recently-viewed": { "type": "static-recently-viewed", "settings": {} }
+  },
+  "order": ["main", "recommendations", "reviews", "recently-viewed"]
+}

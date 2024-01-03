@@ -314,7 +314,7 @@
       ],
       "settings": {
         "title": "Product collection",
-        "layout": "grid",
+        "layout": "slideshow",
         "collection": "personalized-lamp",
         "product_count": 25,
         "cta_label": "",
@@ -494,7 +494,7 @@
         "promotion-4"
       ],
       "settings": {
-        "title": "PHOTO WITH LAMP",
+        "title": "Photo with lamp",
         "section_height": "medium",
         "section_columns": 3,
         "text_alignment": "center-center"
@@ -638,7 +638,7 @@
         "testimonial-6"
       ],
       "settings": {
-        "title": "Testimonials",
+        "title": "What our customer say",
         "image_crop": "original",
         "text_size": "medium"
       }
